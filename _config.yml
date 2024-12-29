@@ -24,7 +24,7 @@ social-links-order: [github-user, bluesky, mastodon, instagram, linkedin, blog_u
 social-links:
   - name: bluesky
     url-pattern: bsky.app/profile/__USERNAME__
-    icon-class: fab fa-brands fa-bluesky
+    icon-class: fa-brands fa-bluesky
 
   - name: linkedin
     url-pattern: linkedin.com/in/__USERNAME__
