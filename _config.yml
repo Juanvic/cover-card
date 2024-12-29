@@ -11,7 +11,6 @@ background: 'https://wallpapershome.com/images/pages/pic_h/5708.jpg'
 favicon: 'favicon.ico'
 
 # Online profiles
-bluesky: 'juanvic.bsky.social'
 linkedin: 'juanvic-almeida'
 instagram: 'juanvic04'
 github-user: 'Juanvic'
@@ -19,7 +18,7 @@ blog_url: 'juanvic.github.io/'
 email: 'juanvic.almeida@gmail.com'
 mastodon: '@juanvic'
 
-social-links-order: [github-user, bluesky, mastodon, instagram, linkedin, blog_url, email]
+social-links-order: [github-user, mastodon, instagram, linkedin, blog_url, email]
 
 social-links:
   - name: linkedin
