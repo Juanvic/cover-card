@@ -45,6 +45,6 @@ social-links:
     url-pattern: '__USERNAME__'
     icon-class: far fa-2x fa-envelope-open
 
-    - name: bluesky
+  - name: bluesky
     url-pattern: bsky.app/profile/__USERNAME__
     icon-class: fab fa-brands fa-bluesky
