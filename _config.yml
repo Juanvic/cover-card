@@ -17,8 +17,9 @@ github-user: 'Juanvic'
 blog_url: 'juanvic.github.io/'
 email: 'juanvic.almeida@gmail.com'
 mastodon: '@juanvic'
+bluesky: 'juanvic.bsky.social'
 
-social-links-order: [github-user, mastodon, instagram, linkedin, blog_url, email]
+social-links-order: [bluesky, github-user, mastodon, instagram, linkedin, blog_url, email]
 
 social-links:
   - name: linkedin
@@ -43,3 +44,7 @@ social-links:
     url-scheme: 'mailto:'
     url-pattern: '__USERNAME__'
     icon-class: far fa-2x fa-envelope-open
+
+    - name: bluesky
+    url-pattern: bsky.app/profile/__USERNAME__
+    icon-class: fab fa-brands fa-bluesky
